@@ -1,21 +1,21 @@
 # adopt-civic-art
 
-This project grew out of the idea of Boston's Adopt-a-Hydrant application, except here we're adapting it to let the public adopt responsibility for checking in on a piece of civic art.  Specifically, civic art that is owned and maintained by the LA County Arts Commission but is too spread out across the County's >4,000 square miles for the commission to efficiently manage.
+This project was inspired by City of Boston's Adopt-a-Hydrant application (an Esri Adopta app) where residents could "adopt" a fire hydrant and commit to shoveling the snow in front of the hydrant for the Fire Department to gain access after snowfalls. Instead of fire hydrants, we're adapting the model to spark civic engagement with County owned civic artworks and monitor easy-to-recognize damage like graffiti, vandalism, and guano. Adopters will be asked to submit monthly photos documenting the condition of their adopted artwork.
 
-The basic function of this app is to allow the public to submit photos and a basic damage report for a County-owned piece of civic art.
+The demonstration project/product will be launched with ten civic artworks spread out across five supervisorial districts.
 
 # history
 
-This project idea was proposed through a monthly gathering of local civic tech/data/government people, [Data + Donuts](http://datadonuts.la).  The idea was then pitched at Hack For LA's 2/7/17 hack night and quickly attracted a group of interested individuals.
+This project idea was initially pitched during a monthly gathering of local civic tech/data/government people, [Data + Donuts](http://datadonuts.la).  The idea was formally pitched at Hack For LA's 2/7/17 civic hack night and quickly attracted a group of interested individuals. 
 
-Since then, members have created a user survey and conducted user interviews.  We'll define a set of required features from the results and then we'll create a couple different app mockups for comparison.
+Since then, members have created a user survey and conducted user interviews.  We'll define a set of required features from the results and then we'll create a couple different app mockups for comparison. Slack channel contains detailed weekly notes and design and development artifacts. 
 
 # specs
 
-We chose to start with a web app.  Using a tool like PhoneGap, we'll have the possibility of compiling to mobile later on.  We will need some sort of data storage/database solution.
+We chose to start with a web app.  Using a tool like PhoneGap, we'll have the possibility of compiling to mobile later on.  We will need viable short-term data storage/database solution.
 
 # needs
 
-We'll take anyone interested in joining, but we could really use additional members with skills in project management, graphic design, front end development, and backend development.
+We'll take anyone interested in joining, but we could really use additional members with skills in project management, graphic design, front- and back-end development.
 
 [Phonegap experimentation](https://github.com/oumsofiane1/adoptartpiece)
